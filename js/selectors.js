@@ -7,6 +7,6 @@ function lastImageSelector() {
   return lastImage;
 }
 function ninjaBabySelector() {
-  const ninjaImage = $('#baby-ninja').children('img');
+  const ninjaImage = $('#baby-ninja').attr('src');
   return ninjaImage;
 }
