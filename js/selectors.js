@@ -10,7 +10,7 @@ function ninjaBabySelector() {
   const ninjaImage = $('img#baby-ninja').attr('src');
   return ninjaImage;
 }
-function ninjaBabySelector() {
-  const ninjaImage = $('img#baby-ninja').attr('src');
-  return ninjaImage;
+function divSelector() {
+  const pics = $('div');
+  return pics;
 }
