@@ -2,7 +2,7 @@ function paragraphSelector() {
   const paragraph = $('p');
   return paragraph;
 }
-function paragraphSelector() {
-  const paragraph = $('p');
-  return paragraph;
+function lastImageSelector() {
+  const lastImage = $('img:last');
+  return las;
 }
