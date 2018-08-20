@@ -14,7 +14,7 @@ function divSelector() {
   const pics = $('div.pics');
   return pics;
 }
-function divSelector() {
+function firstListItem() {
   const pics = $('div.pics');
   return pics;
 }
