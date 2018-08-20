@@ -11,6 +11,6 @@ function ninjaBabySelector() {
   return ninjaImage;
 }
 function divSelector() {
-  const pics = $('div');
+  const pics = $('div.pics');
   return pics;
 }
