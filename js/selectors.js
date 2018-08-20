@@ -15,6 +15,6 @@ function divSelector() {
   return pics;
 }
 function firstListItem() {
-  const pics = $('div.pics');
+  const pics = $('ul#pics');
   return pics;
 }
