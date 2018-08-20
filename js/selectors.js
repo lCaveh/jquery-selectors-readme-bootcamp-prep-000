@@ -14,3 +14,7 @@ function divSelector() {
   const pics = $('div.pics');
   return pics;
 }
+function divSelector() {
+  const pics = $('div.pics');
+  return pics;
+}
