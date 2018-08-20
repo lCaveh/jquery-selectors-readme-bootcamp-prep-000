@@ -6,7 +6,7 @@ function lastImageSelector() {
   const lastImage = $('img:last');
   return lastImage;
 }
-function lastImageSelector() {
-  const lastImage = $('img:last');
-  return lastImage;
+function ninjaBabySelector() {
+  const ninjaImage = $('.');
+  return ninjaImage;
 }
